@@ -1,7 +1,7 @@
 # TMZ
 
 ## Team
-Team TMZ consists of four informational technology students
+Team TMZ have grown comfortable with each other, allowing for any idea to be shared with no fear of being denied the right to express opinions or ideas. While all members have varying levels of strength in the design process, the team are able to rely on other members to assist them to achieve efficient problem solving, all the while achieving the personal goals set by each individual. It is a strength in itself that our team are able to depend on each other, improving the overall quality of work.
 
 ### David Tran
 As I am majoring in Software Design, my main job would be to work with user-experience developers and graphic designers of the group in developing and creating our final project. My duties for the project will be to ensure and complete core functionalities that are required to satisfy our task and also help group members develop their back-end programming skills. I will be utilising my knowledge with HTML/CSS/JavaScript/SQL throughout each prototype when creating features relevant to our problem space.
