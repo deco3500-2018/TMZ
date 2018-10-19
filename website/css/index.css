@@ -1,5 +1,6 @@
 body{
   font-family: 'Assistant', sans-serif;
+  width: 100%;
 }
 /* navigation */
 nav{
@@ -32,6 +33,7 @@ nav li{
   background-size: cover;
   background-repeat: no-repeat;
   font-family: 'Assistant', sans-serif;
+  width: 100%;
 }
 #title h3{
   font-size: 2em;
@@ -55,10 +57,33 @@ nav li{
 }
 /* sections prototype */
 #prototype{
-  background-color: #5c6b73;
-  text-align: center;
+    background-color: #c2dee2;
+    text-align: center;
 }
-#prototype img{
+#prototype2{
+    background-color: #9db4c0;
+    text-align: right;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 10%;
+}
+#prototype_title{
+  font-size: 2em;
+  text-align: center;
+  color: white;
   margin-top: 10%;
-  margin-bottom: -10%;
+}
+.cover{
+  width: 50%;
+  margin-top: 10%;
+}
+#btn{
+  text-align: center;
+  font-family: 'Assistant', sans-serif;
+  border: 2px black solid;
+}
+.buttons{
+  text-align: center;
+  background-color: #c2dee2;
+    padding-top: 20px;
 }

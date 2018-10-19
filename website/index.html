@@ -22,10 +22,8 @@
   <section>
     <div class="container-fluid bg" id="banner">
 
-        <div class="col-xs-3 col-xs-offset-7" id="title">
+        <div class="col-md-3 col-xs-offset-7" id="title">
           <h3> "Inspirational Quote" </h3>
-        </div>
-        <div class="col-xs-3 col-xs-offset-7" id="title">
           <button type="button" class="btn btn-outline-light btn-lg btn-block">Get Started</button>
       </div>
 
@@ -35,18 +33,70 @@
   <img src="img/side_hand.png" alt="hand" id="side_hand" width="50px"/>
 </div> -->
 <section>
-  <div class="container-fluid bg" id="about">
-
+  <!-- <div class="container-fluid bg" id="about">
+</div> -->
+<div id="prototype2">
+  <div class="col-md-3 col-xs-offset-2" id="prototype_title">
+    <h3> "Inspirational Quote" </h3>
 </div>
+  <img src="img/about.png" width="40%" />
+</div>
+<section class="buttons">
+  <!-- <div class="btn-group btn-group-toggle" data-toggle="buttons">
+    <label class="btn btn-secondary">
+      <input type="radio" name="options" id="option1" autocomplete="off"> Contacts
+    </label>
+    <label class="btn btn-secondary">
+      <input type="radio" name="options" id="option2" autocomplete="off"> Host to Guest
+    </label>
+    <label class="btn btn-secondary">
+      <input type="radio" name="options" id="option3" autocomplete="off"> Messaging
+    </label>
+    <label class="btn btn-secondary">
+      <input type="radio" name="options" id="option4" autocomplete="off"> Hidden Tips
+    </label>
+  </div> -->
+  <div class="btn-group btn-group-toggle" data-toggle="buttons" id="btn">
+  <label class="btn btn-secondary btn-lg">
+    <button type="checkbox" id="option1" checked autocomplete="off" onclick="showImage(1)"> Contacts</button>
+  </label>
+
+  <label class="btn btn-secondary  btn-lg">
+    <button type="checkbox" id="option2" checked autocomplete="off"  onclick="showImage(2)"> Host to Guest</button>
+  </label>
+
+  <label class="btn btn-secondary  btn-lg">
+    <button type="checkbox" id="option3" checked autocomplete="off" onclick="showImage(3)"> Messaging </button>
+  </label>
+
+  <label class="btn btn-secondary  btn-lg">
+    <button type="checkbox" checked autocomplete="off"  onclick="showImage(4)"> Hidden Tips </button>
+  </label>
+</div>
+</section>
   </section>
   <section>
     <div class="container-fluid bg" id="prototype">
-
-        <div id="title">
-          <img src="img/duobud_display.png" alt="display" width="300px"
-        </div>
-
-  </div>
+      <img src="img/about_1.png" width="50%"class="cover" id="img1"/>
+    </div>
 </section>
   </body>
+  <script>
+  function showImage(x) {
+
+    var img = document.getElementById('img1');
+    if(x == 1){
+    img.src ="img/about_contacts.png";
+    }
+    if(x == 2){
+    img.src ="img/about_h2g.png";
+    }
+    if(x == 3){
+    img.src ="img/about_msg.png";
+    }
+    if(x == 4){
+    img.src ="img/about_tips.png";
+    }
+}
+  </script>
 </html>
