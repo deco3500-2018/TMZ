@@ -71,7 +71,7 @@ nav li{
   font-size: 2em;
   text-align: center;
   color: white;
-  margin-top: 10%;
+  margin-top: 9%;
 }
 .cover{
   width: 50%;
@@ -86,4 +86,30 @@ nav li{
   text-align: center;
   background-color: #c2dee2;
     padding-top: 20px;
+}
+/* sections PROFILE*/
+#profile{
+  background-color: #e0fbfc;
+}
+#profileh3{
+  margin: 5%;
+  font-size: 70px;
+  font-family: 'Lilita One', cursive;
+  text-transform: uppercase;
+  font-weight: 800;
+  margin-bottom: 1em;
+}
+#profilehead{
+  margin: 5%;
+  font-size: 30px;
+  font-family: 'Lilita One', cursive;
+  text-transform: uppercase;
+  font-weight: 100;
+  margin-top: 2em;
+}
+.rounded-circle {
+  border-radius: 50% !important;
+}
+#profile p{
+
 }
