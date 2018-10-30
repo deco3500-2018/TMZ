@@ -34,7 +34,7 @@ As the site uses a free site that will host the HTML, CSS and other files that a
 The wikis available for viewing are provided for a detailed understanding of the design process and how design and development were influenced by user testing analysis results and extensive domain research.
 
 * [Concept Proposal](https://github.com/deco3500-2018/TMZ/wiki/Concept-Proposal)
-* [Design Process Overview](https://github.com/deco3500-2018/TMZ/wiki/Design-Process-Overview
+* [Design Process Overview](https://github.com/deco3500-2018/TMZ/wiki/Design-Process-Overview)
 * [Important Links](https://github.com/deco3500-2018/TMZ/wiki/Important-Links)
 * [Design Process of the Promotional Material](https://github.com/deco3500-2018/TMZ/wiki/Design-Process-%7C-Promotional-Material)
 * [Final Promotional Material](https://github.com/deco3500-2018/TMZ/wiki/Final-Promotional-Material-Design)
