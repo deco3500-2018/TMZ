@@ -40,6 +40,7 @@ The wikis available for viewing are provided for a detailed understanding of the
 * [Final Promotional Material](https://github.com/deco3500-2018/TMZ/wiki/Final-Promotional-Material-Design)
 * [Contextual Interviews](https://github.com/deco3500-2018/TMZ/wiki/User-Testing-%7C-Target-Audience)
 * [Usability Testing](https://github.com/deco3500-2018/TMZ/wiki/User-Testing-%7C-Application)
+
 Weekly Progress Updates
 * [Week 7](https://github.com/deco3500-2018/TMZ/wiki/Week-7-%7C-Feedback-and-Progress-Update)
 * [Week 8](https://github.com/deco3500-2018/TMZ/wiki/Week-8-%7C-Feedback-and-Progress-Update)
